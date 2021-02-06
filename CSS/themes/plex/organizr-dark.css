@@ -15,8 +15,8 @@
 :root {
   --main-bg-color: #1f1f1f;
   --modal-bg-color: #1b1b1b;
-  --link-color: #2cabe3;
-  --button-color: #2cabe3;
-  --button-color-hover: rgb(44 171 227 / .8);
-  --accent-color:  #2cabe3;
+  --link-color: #e82c2a;
+  --button-color: #e82c2a;
+  --button-color-hover: rgb(232 44 42 / .8);
+  --accent-color:  #e82c2a;
   }
