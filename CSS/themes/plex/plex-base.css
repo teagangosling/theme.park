@@ -11,6 +11,9 @@
 /*			      https://github.com/gilbN/theme.park			 */
 
 /* PLEX ORGANIZR THEME */
+.NavBarButton-button-oTeMHk {
+  visibility: hidden;
+}
 * {
   outline: none;
 }
